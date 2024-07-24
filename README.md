@@ -5,7 +5,7 @@
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/bbyintari/hardhat-deploy-contract.git
+git clone https://github.com/bbyintari/swisstronkbanrch.git
 ```
 
 ```
